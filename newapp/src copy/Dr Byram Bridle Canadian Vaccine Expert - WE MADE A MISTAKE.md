@@ -1,0 +1,38 @@
+
+created: 2021-06-10T15:52:50 (UTC -04:00)
+tags: []
+source: https://www.covidtruths.co.uk/2021/06/dr-byram-bridle-canadian-vaccine-expert-we-made-a-mistake/
+author: Covid Truths
+
+Dr Byram Bridle Canadian Vaccine Expert - WE MADE A MISTAKE -
+
+Excerpt
+Article Copyright: Grandmageri422 From uncoverdc.com Canadian vaccine expert Dr. Byram Bridle recently spoke of the terrifying reasons serious side effects, including heart inflammation and vaccine-induced immune thrombotic thrombocytopenia (VITT), may occur in those who have
+
+
+
+Article Copyright: Grandmageri422
+From uncoverdc.com
+Canadian vaccine expert Dr. Byram Bridle recently spoke of the terrifying reasons serious side effects, including heart inflammation and vaccine-induced immune thrombotic thrombocytopenia (VITT), may occur in those who have received the COVID-19 vaccine. He explained that critical information has recently been discovered that centers around spike proteins—a crucial element in both the SARS-CoV-2 virus and the COVID-19 vaccines.
+Dr. Byram Bridle, Associate Professor of Viral Immunology at the University of Guelph, received funding to develop a novel vaccine platform and is very much pro-vaccine. Nonetheless, he insists science must be properly performed and then followed carefully before entering into the public rollout of vaccines. Brindle, who stated the importance of sharing this new information openly, recently visited On Point with Alex Pierson and spoke at length on the “scary” situation facing humanity as the push to vaccinate the global population against SARS-CoV-2 gains momentum. He explained that, through cutting edge, peer-reviewed science, we’ve learned more about the many problems associated with spike proteins and COVID-19 vaccines:
+“The SARS-CoV-2 has a spike protein on its surface. We now know spike protein gets into circulation. We thought the spike protein was a great target antigen; we never knew it was a toxin. So by vaccinating people, we are inadvertently inoculating them with a toxin.”
+
+SARS-CoV-2—which has been shown to cross the blood-brain barrier in mice and cause many kinds of heart, blood vessel, and brain damage—has a spike protein on its surface, allowing the virus to infect our bodies. Likewise, research within the scientific community also reveals various cardiovascular and heart problems, bleeding, and clotting when studying the disease in humans. That same research also establishes that the spike protein alone is almost entirely responsible for damage to the cardiovascular system if circulating in the body. 
+
+Screenshot, Daily Exposure UK / But fast-forward 15 weeks to the 16th report using data inputted to the MHRA Yellow Card Scheme up to the 12th May, we can now see that the Pfizer vaccine has caused a total of 211 cerebrovascular accidents, an increase of 904.76%, with 12 of these resulting death. Ischaemic strokes have increased by 333.33% to a total number of 26, and the total number of cerebral haemorrhages now stands at 23, with 6 of these resulting in death.
+Generally speaking, there are many different kinds and types of vaccines, all with the same objective—tricking a healthy body into thinking it is under attack by a particular disease so the immune system will learn to create the cells and proteins necessary to swiftly destroy the pathogen if it becomes a threat. Since spike proteins cause the coronavirus infection, they are the catalyst used in COVID-19 vaccines.
+Essentially, the assumption behind COVID-19 vaccines is their ability to enable the cells in our bodies to produce spike protein. When an immune response is launched against the spike protein, the virus stops infecting the body. At first glance, this information seems relatively straightforward. When administered, COVID-19 vaccines are injected into the shoulder muscle—not into the blood. Until recently, the opinion has been that these vaccines function like traditional vaccines and remain near the injection site. Dr Byram Bridle details further, explaining:
+“The assumption until now has been that these vaccines behave like all of our traditional vaccines; that they don’t go anywhere, they stay in our shoulder. Some of the protein will go to the local draining lymph node in order to activate the immune system.”
+
+Shockingly, according to Dr Byram Bridle, the COVID-19 vaccine is different from traditional vaccines. For the first time ever, the Japanese Regulatory Agency recently gave Bridle and several international collaborators access to a study called “the Bio-Distribution Study.” The groundbreaking research presents scientists with a more reliable understanding of where COVID-19 messenger RNA (mRNA) vaccines travel in the body after being injected. Dr Byram Bridle explains the study absolutely refutes the premise that the COVID-19 vaccine stays in the shoulder muscle, asserting:
+“The short answer—is absolutely not. It’s very disconcerting. The spike protein gets into the blood, circulates through the blood in individuals over several days post-vaccination. Once it gets in the blood, it accumulates in a number of tissues such as the spleen, the bone marrow, the liver, the adrenal glands. And of particular concern for me is it accumulates in the ovaries, in quite high concentrations.”
+
+
+Moreover, a scientific paper just accepted for publication in the Oxford University Press for the Infectious Diseases Society of America supports this frightening hypothesis. The research examined thirteen young healthcare workers who had received the Moderna vaccine. Scientists discovered the SARS-CoV-2 spike protein circulating in the blood of eleven of the thirteen healthcare workers. Dr Byram Bridle emphasized that the spike protein could cross the blood-brain barrier, causing neurological damage, explaining why fatal blood clots are often seen in the brain. Elaborating on the implications of these findings, he remarked:
+“We have known for a long time that the spike protein is a pathogenic protein. It is a toxin that can cause damage in our body if it gets into circulation. Now, we have clear-cut evidence that the vaccines that make the cells in our deltoid muscles manufacture this protein, [we now know] the vaccine itself plus the protein gets into blood circulation. When in circulation, the spike protein can bind to the receptors that are on our platelets and the cells that line our blood vessels. When that happens, it can do one of two things: it can either cause platelets to clump, and that can lead to clotting—that’s exactly why we’ve been seeing clotting disorders associated with these vaccines. It can also lead to bleeding, and of course, the heart is involved, which is part of the cardiovascular system, so that is why we are seeing heart problems.”
+
+
+As questions intensify surrounding the true origins of SARS-CoV-2, the devastating discovery that spike proteins reach the bloodstream leaves wide open the door for many other legitimate questions about the long-term safety of COVID-19 vaccines—for example, with it accumulating in the ovaries, will we be rendering some young people infertile?—Dr Byram Bridle concluded:
+“We made a big mistake; we didn’t realize it until now. We thought the spike protein was a great target antigen. We never knew the spike protein itself was a toxin and was a pathogenic protein. So, by vaccinating people, we are inadvertently inoculating them with a toxin. Some people, this gets into circulation, and when that happens, in some people, they can cause damage, especially to the cardiovascular system.” Source
+Was it a mistake? I think not……..
+MARANATHA!
