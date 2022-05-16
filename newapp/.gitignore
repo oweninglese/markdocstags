@@ -1,3 +1,17 @@
 /site/
 /src/
 *.db
+/staging/
+/static copy/
+/src copy/
+/settings/
+/themes/
+/schemas/
+*.ipynb
+*.csv
+*.js
+/.mypycache/
+/.ipynb_checkpoints/
+/.vscode/
+/venv/
+

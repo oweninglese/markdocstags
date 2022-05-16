@@ -28,7 +28,7 @@ def add_to_art_memo():
     """_summary_
     """
     global TAG_MEMO
-    TAG_MEMO[] = []
+    TAG_MEMO[0] = []
 
 
 def get_tagstring(update=True):

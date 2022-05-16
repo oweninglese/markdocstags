@@ -1,0 +1,14 @@
+{% extends "index.html" %}
+
+	{% block content %}
+
+			<div class="container">
+					{% for site in posts %}
+
+							<div><h3>{{ site|safe }}</h3></div>
+						
+						
+					{% endfor %}
+			</div>
+	
+{% endblock %}
