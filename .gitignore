@@ -1,0 +1,25 @@
+/site/
+/src/
+*.db
+/staging/
+/static copy/
+/src copy/
+/'static copy'/
+/'src copy'/
+/settings/
+/themes/
+/schemas/
+*.ipynb
+*.csv
+*.js
+/.mypy_cache/
+/.ipynb_checkpoints/
+/.vscode/
+/'venv'/
+/venv/
+/newapp/venv/lib/
+*.pyc
+/.vscode/
+/__pycache__/
+/themes/
+/extensions/
