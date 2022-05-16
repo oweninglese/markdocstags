@@ -16,9 +16,10 @@
 /.ipynb_checkpoints/
 /.vscode/
 /'venv'/
-/venv/
-/lib/
+/../venv/
+/newapp/venv/lib/
 *.pyc
 /.vscode/
 /__pycache__/
 /themes/
+/extensions/
