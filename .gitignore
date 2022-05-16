@@ -17,7 +17,7 @@
 /.vscode/
 /'venv'/
 /venv/
-/newapp/venv/lib/
+/venv/lib/
 *.pyc
 /.vscode/
 /__pycache__/
