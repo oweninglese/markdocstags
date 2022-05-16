@@ -18,8 +18,10 @@
 /'venv'/
 /venv/
 /venv/lib/
+/newapp/venv/lib/
 *.pyc
 /.vscode/
 /__pycache__/
 /themes/
+/extensions/
 /extensions/
