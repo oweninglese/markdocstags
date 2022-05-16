@@ -4,14 +4,22 @@
 /staging/
 /static copy/
 /src copy/
+/'static copy'/
+/'src copy'/
 /settings/
 /themes/
 /schemas/
 *.ipynb
 *.csv
 *.js
-/.mypycache/
+/.mypy_cache/
 /.ipynb_checkpoints/
 /.vscode/
+/'venv'/
 /venv/
-/'src copy'/
+/newapp/venv/lib/
+*.pyc
+/.vscode/
+/__pycache__/
+/themes/
+/extensions/
