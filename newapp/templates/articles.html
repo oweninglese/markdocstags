@@ -2,17 +2,15 @@
 
 	{% block content %}
 		<section class="py-5 text-center container">
-			<div class="row py-lg-5">
-				<div class="col-lg-6 col-md-8 mx-auto">
+			<div class="row py-lg-5 drop-navbar">
+				<div class="col-lg-6 col-md-8 mx-auto dropdown-nav">
 					<h1 class="font-weight-light"></h1>
-					<p class="lead text-muted"></p>
 					{% for letter in navi %}
 						<p>
-						<a href="#" class="btn btn-primary my-2">{{ letter }}</a>
+						<a href="#" class="btn btn-primary my-2 dropdown-content">{{ letter }}</a>
 							{% for site in navi[letter] %}
 								<a href="{{ site }}" class="btn btn-secondary my-2">{{ site }}</a>
 							{% endfor %}
-						</p>
 					{% endfor %}
 				</div>
 			</div>

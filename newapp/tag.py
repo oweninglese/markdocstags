@@ -1,4 +1,4 @@
-#! /usr/bin/python
+# tag.py
 
 
 class Tag(object):
